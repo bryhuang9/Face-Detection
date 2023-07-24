@@ -1,0 +1,3 @@
+/Users/brian/Desktop/django/opencv project/build/CMakeFiles/MyProject.dir
+/Users/brian/Desktop/django/opencv project/build/CMakeFiles/edit_cache.dir
+/Users/brian/Desktop/django/opencv project/build/CMakeFiles/rebuild_cache.dir

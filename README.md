@@ -1,5 +1,5 @@
 # Face-Detection
-This repository contains the implementation of a face detection program that uses the OpenCV library. The program detects any face that appears on the camera and has an inbuilt FPS detector.
+This repository contains the implementation of a face detection program that uses the OpenCV library. The program detects any face that appears on the camera and has an inbuilt FPS detector. Project is written in C++.
 
 ## Build and Run
 In order to build and run this project, use the provided Makefile.
